@@ -14,7 +14,7 @@ for playback control and a small screen that shows what track is playing.
 
 ## Schematic
 
-<img width="600" alt="Schematic" src="https://github.com/user-attachments/assets/0d2cf19b-7ff0-4cce-9fb9-5f9d551aec6e" />
+<img width="516" height="387" alt="image" src="https://github.com/user-attachments/assets/479fbc55-b09f-455f-aff5-b23b7ed8d56c" />
 
 ## PCB Layout
 
