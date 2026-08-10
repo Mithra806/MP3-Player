@@ -1,4 +1,0 @@
-(sym_lib_table
-	(version 7)
-	(lib (name "mp3player_parts") (type "KiCad") (uri "${KIPRJMOD}/mp3player_parts.kicad_sym") (options "") (descr ""))
-)
